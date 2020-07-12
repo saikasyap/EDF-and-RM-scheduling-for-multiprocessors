@@ -1,0 +1,6 @@
+Add the toolbox TORSHCE.
+
+MATLAB version used :R2012a
+
+Open the files EDF and RM .. else add to path 
+then run case 1,2,3
